@@ -35,7 +35,7 @@ Caso seu teste seja para uma vaga de desenvolvedor **Tech Lead**, os critérios 
 
 Você pode fazer tudo em algum repositório privado e, na entrega, liberar acesso de leitura para os e-mails
 ou arquivo **.zip** 
-_**marcell.cruz@original.io**_ _**wandreus.pereira@original.io**_ _**zeonardo.lima@original.io**_ _**jesus@original.io**_.
+_**marcell.cruz@original.io**_ _**wandreus.pereira@original.io**_ _**zeonardo.lima@original.io**_ _**alex.talha@original.io**_.
 Caso for enviar por e-mail, nos passe o link do seu github.
 
 ## Bonus points de entrega
