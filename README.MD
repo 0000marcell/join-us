@@ -10,28 +10,32 @@ O seu desafio é codificar [esse layout](https://www.figma.com/file/MOlhG4R9BQMl
 **[IMPORTANTE] Leia os [critérios de avaliação](#critérios-de-avaliação).**
 
 ## Obrigatório
-* HTML e CSS 
-* JS(Apenas Junior e Pleno)
+* Javascript
+* React
+* Css/Scss/BEM
 * Git
-* Fidelização ao layout
+* Código modular
+* Boa aplicação de ferramentas, sejam elas transpiladores, pré-processadores, task-runners, bundlers, etc.
+* Fidelização ao layout.
 
 ## Bonus points
-* [React](https://reactjs.org/)
-* Simulação de API REST, usando código assíncrono (Fake server)
-* Código modular 
-* Responsividade
-* Boa aplicação de ferramentas, sejam elas transpiladores, pré-processadores, task-runners, bundlers, etc.
+* Typescript
+* Padrão de projeto.
+* BDD, TDD, testes unitários, testes integrados, testes funcionais.
+* SSG Static site generator: Gastbyjs, Nextjs ou similiares.
+* Css-in-Js: Styled-componets ou similares.
+* Simulação de API REST, usando código assíncrono (Fake server).
 
 ## Critérios de avaliação
-Se você está fazendo este teste para uma vaga de **Júnior** ou **Estagio**, levaremos em consideração apenas o que for **[obrigatório](#obrigatório)**, tendo a escrita e organização do código/projeto como critérios de desempate, se necessário.
+Se você está fazendo este teste para uma vaga de Pleno ou Sênior, levaremos em consideração apenas o que for **[obrigatório](#obrigatório)**, tendo a escrita e organização do código/projeto como critérios de desempate, se necessário.
 
-Caso seu teste seja para uma vaga de desenvolvedor **Pleno**, os critérios que pretendemos avaliar em seu código são, além dos itens obrigatórios e os **[bonus](#bonus-points)**, a capacidade de [pensar modularmente](https://webstandardssherpa.com/reviews/think-modularly); também acreditamos que uma boa organização utilizando o Git e estruturar arquivos e pastas de forma eficiente e organizada são reflexos da sua eficiência ao trabalhar em equipe - algo **essencial** por aqui -, portanto também será levado em consideração.
+Caso seu teste seja para uma vaga de desenvolvedor **Tech Lead**, os critérios que pretendemos avaliar em seu código são, além dos itens obrigatórios e os **[bonus](#bonus-points)**, a capacidade de [pensar modularmente](https://webstandardssherpa.com/reviews/think-modularly); também acreditamos que uma boa organização utilizando o Git e estruturar arquivos e pastas de forma eficiente e organizada são reflexos da sua eficiência ao trabalhar em equipe - algo **essencial** por aqui -, portanto também será levado em consideração.
 
 ## Entregando o teste
 
 Você pode fazer tudo em algum repositório privado e, na entrega, liberar acesso de leitura para os e-mails
 ou arquivo **.zip** 
-_**marcell.cruz@original.io**_ _**zeonardo.lima@original.io**_ _**jesus@original.io**_.
+_**marcell.cruz@original.io**_ _**wandreus.pereira@original.io**_ _**zeonardo.lima@original.io**_ _**jesus@original.io**_.
 Caso for enviar por e-mail, nos passe o link do seu github.
 
 ## Bonus points de entrega
@@ -39,13 +43,13 @@ Se não se importar que outros candidatos possam ver seu teste, você pode forka
 
 * Hospede o resultado de seu teste em qualquer serviço à sua escolha (Surge.sh, Heroku, Netlify, etc.) e mantenha-a sempre atualizada
 * Crie uma issue aqui neste repositório, com as seguintes informações:
-  * Título _"Vaga [Júnior|Pleno|Senior]"_ (de acordo com o perfil que está se candidatando)
+  * Título _"Vaga [Pleno|Senior|tech Lead]"_ (de acordo com o perfil que está se candidatando)
   * URL do teste hospedado (para que possamos visualizar o resultado final)
   * Nome completo
   * **Se tiver desenvolvido em repositório privado**, link para o repositório.
   * **Se tiver feito Pull Request**, o mesmo deve linkar para sua issue.
 * Não esquecer de enviar seu currículo por e-mail para _**cv@original.io**_, seguindo estas diretrizes:
-  * Assunto _"Vaga Front-End **[Júnior|Pleno]**"_ (de acordo com o perfil que está se candidatando)
+  * Assunto _"Vaga Front-End **[Pleno|Senior|tech Lead]**"_ (de acordo com o perfil que está se candidatando)
   * Link para a issue criada, para que possamos identificar, mais facilmente, o seu teste.
 
 ---
